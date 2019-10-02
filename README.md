@@ -1,5 +1,5 @@
 # BVH_Simulator
- A simple two dimentional BVH (Bounding Volume Hierarchy) silumation displaying five different bounding methods on varying object shapes using pixel clustering.
+ A simple two dimentional BVH (Bounding Volume Hierarchy) silumation displaying five different bounding methods on varying shapes using pixel clustering.
  
   * Shpere (Complete)
   
