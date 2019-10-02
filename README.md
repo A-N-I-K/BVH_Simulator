@@ -9,4 +9,4 @@
   
   * K-DOP (TODO)
   
-  * Convex Hull (Imcomplete)
+  * Convex Hull (Incomplete)
